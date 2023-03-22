@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("Hello from Github, attempt two\n");
+    printf("Hello from Github, attempt with packagegroups\n");
     return 0;
 }
